@@ -12,4 +12,7 @@ I probably should have provided a constants class and made those constants.
 Also the print method isn't as visual as I would like, but it is
 "visualizable."
 
+One more thing - classes and execuatable are in one file when they don't
+need to be - it was just so I could turn in the assignment.
+
 Also the documentation should be better. Other than that, the logic is sound.
